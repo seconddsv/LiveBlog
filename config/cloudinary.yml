@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dnnxu5tco
+  api_key: '329964362477576'
+  api_secret: NRS3A4LKrIxcicO7ac5CyYguCD4
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dnnxu5tco
+  api_key: '329964362477576'
+  api_secret: NRS3A4LKrIxcicO7ac5CyYguCD4
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dnnxu5tco
+  api_key: '329964362477576'
+  api_secret: NRS3A4LKrIxcicO7ac5CyYguCD4
+  enhance_image_tag: true
+  static_file_support: false
